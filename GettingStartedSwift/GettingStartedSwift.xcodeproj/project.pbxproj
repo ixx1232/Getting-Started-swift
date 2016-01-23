@@ -26,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1863D2E21C53BFE5002E8204 /* Swift 初见.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift 初见.playground"; sourceTree = "<group>"; };
 		18925D531C50B37300CB7D7B /* GettingStartedSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GettingStartedSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18925D561C50B37300CB7D7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18925D581C50B37300CB7D7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +84,7 @@
 				18925D5D1C50B37300CB7D7B /* Assets.xcassets */,
 				18925D5F1C50B37300CB7D7B /* LaunchScreen.storyboard */,
 				18925D621C50B37300CB7D7B /* Info.plist */,
+				1863D2E21C53BFE5002E8204 /* Swift 初见.playground */,
 			);
 			path = GettingStartedSwift;
 			sourceTree = "<group>";
@@ -388,6 +390,7 @@
 				18925D721C50B37300CB7D7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18925D731C50B37300CB7D7B /* Build configuration list for PBXNativeTarget "GettingStartedSwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -396,6 +399,7 @@
 				18925D751C50B37300CB7D7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
