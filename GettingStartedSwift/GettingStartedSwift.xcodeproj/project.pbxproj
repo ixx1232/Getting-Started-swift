@@ -28,6 +28,7 @@
 /* Begin PBXFileReference section */
 		1863D2E21C53BFE5002E8204 /* Swift 初见.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift 初见.playground"; sourceTree = "<group>"; };
 		1863D2E31C53C281002E8204 /* 简单值.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "简单值.playground"; sourceTree = "<group>"; };
+		1863D2E41C53D223002E8204 /* 控制流.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "控制流.playground"; sourceTree = "<group>"; };
 		18925D531C50B37300CB7D7B /* GettingStartedSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GettingStartedSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18925D561C50B37300CB7D7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18925D581C50B37300CB7D7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -87,6 +88,7 @@
 				18925D621C50B37300CB7D7B /* Info.plist */,
 				1863D2E21C53BFE5002E8204 /* Swift 初见.playground */,
 				1863D2E31C53C281002E8204 /* 简单值.playground */,
+				1863D2E41C53D223002E8204 /* 控制流.playground */,
 			);
 			path = GettingStartedSwift;
 			sourceTree = "<group>";
