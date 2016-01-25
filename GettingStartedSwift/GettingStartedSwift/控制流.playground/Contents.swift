@@ -57,7 +57,7 @@ switch vegetable {
          let vegetableComment = "Everything tastes good in soup"
 }
 // 练习: 删除 default 语句, 看看会有什么错误
-
+// error: switch must be exhausteve, consider adding a default clause
 
 // 声明 'let'可用于匹配某部分固定值的模式
 // 运行 switch 中匹配到的子句之后, 程序会退出 switch 语句, 并不会继续向下运行, 所以不需要在每个子句结尾写break.
@@ -77,6 +77,23 @@ for (kind, numbers) in interestringNumbers {
     }
 }
 // 练习: 添加另一个变量来记录哪种类型的数字是最大的.
+let interestingNumbers = [
+     "Prime":[2, 3, 5, 7, 11, 13],
+     "Fibonacci":[1, 1, 2, 3, 5, 8],
+     "Square":[1, 4, 9, 16, 25],
+]
+var largest1 = 0
+var largestKind: String = ""
+for (kind , numbers) in interestingNumbers {
+    for number in numbers {
+        if number > largest1 {
+            largest1 = number
+            largestKind = kind
+        }
+    }
+}
+largest1
+largestKind
 
 // 使用 while 来重复运行一段代码直到不满足条件. 循环条件可以在开头也可以在结尾.
 var n = 2
