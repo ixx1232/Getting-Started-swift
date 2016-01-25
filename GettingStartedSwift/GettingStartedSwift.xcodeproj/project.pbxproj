@@ -40,6 +40,7 @@
 		18925D6B1C50B37300CB7D7B /* GettingStartedSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GettingStartedSwiftTests.swift; sourceTree = "<group>"; };
 		18925D6D1C50B37300CB7D7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18FE4A211C55CAB600645CA3 /* 函数和闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "函数和闭包.playground"; sourceTree = "<group>"; };
+		18FE4A221C55D4CB00645CA3 /* 对象和类.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "对象和类.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 				1863D2E31C53C281002E8204 /* 简单值.playground */,
 				1863D2E41C53D223002E8204 /* 控制流.playground */,
 				18FE4A211C55CAB600645CA3 /* 函数和闭包.playground */,
+				18FE4A221C55D4CB00645CA3 /* 对象和类.playground */,
 			);
 			path = GettingStartedSwift;
 			sourceTree = "<group>";
