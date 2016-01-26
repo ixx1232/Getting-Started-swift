@@ -26,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1815A8EF1C571922002AD95C /* 协议和扩展.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "协议和扩展.playground"; sourceTree = "<group>"; };
 		18629FD01C561E9B00FC4B36 /* 枚举和结构体.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "枚举和结构体.playground"; path = "../枚举和结构体.playground"; sourceTree = "<group>"; };
 		1863D2E21C53BFE5002E8204 /* Swift 初见.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift 初见.playground"; sourceTree = "<group>"; };
 		1863D2E31C53C281002E8204 /* 简单值.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "简单值.playground"; sourceTree = "<group>"; };
@@ -95,6 +96,7 @@
 				18FE4A211C55CAB600645CA3 /* 函数和闭包.playground */,
 				18FE4A221C55D4CB00645CA3 /* 对象和类.playground */,
 				18629FD01C561E9B00FC4B36 /* 枚举和结构体.playground */,
+				1815A8EF1C571922002AD95C /* 协议和扩展.playground */,
 			);
 			path = GettingStartedSwift;
 			sourceTree = "<group>";
